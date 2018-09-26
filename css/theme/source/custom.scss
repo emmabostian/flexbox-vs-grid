@@ -100,13 +100,25 @@ section {
     }
 
     .subtitle {
-      font-size: 2.5em;
+      font-size: 3em;
       font-family: $title-font;
     }
 
     .description {
       font-size: 1.5em;
       margin-top: 20px;
+      max-width: 40%;
+      line-height: 1.5;
+    }
+
+    .link {
+      font-size: 6em;
+      color: $text-color;
+      transform: color .1s linear;
+    }
+
+    .link:hover {
+      color: $main-color;
     }
 
     .image {
@@ -115,6 +127,14 @@ section {
 
     .image-75 {
       width: 75%;
+    }
+
+    .image-50 {
+      width: 50%;
+    }
+
+    .image-35 {
+      width: 35%;
     }
 
     .image-30 {

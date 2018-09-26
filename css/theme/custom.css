@@ -72,14 +72,26 @@ section {
   .reveal .slides .list-item {
     margin-bottom: 30px; }
   .reveal .slides .subtitle {
-    font-size: 2.5em;
+    font-size: 3em;
     font-family: "Montserrat", sans-serif; }
   .reveal .slides .description {
     font-size: 1.5em;
-    margin-top: 20px; }
+    margin-top: 20px;
+    max-width: 40%;
+    line-height: 1.5; }
+  .reveal .slides .link {
+    font-size: 6em;
+    color: #4A4A4A;
+    transform: color .1s linear; }
+  .reveal .slides .link:hover {
+    color: #FFC0CB; }
   .reveal .slides .image {
     margin-top: 50px; }
   .reveal .slides .image-75 {
     width: 75%; }
+  .reveal .slides .image-50 {
+    width: 50%; }
+  .reveal .slides .image-35 {
+    width: 35%; }
   .reveal .slides .image-30 {
     width: 30%; }
