@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="584" height="281" viewBox="0 0 584 281">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="556" height="253" x="17" y="11" stroke="#979797" stroke-width="2"/>
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M16.5 90.5L571 90.5M16.5 181.25L572 181.25M109.5 12.5L109.5 263.5M202.25 12.5L202.25 263.5M296.25 13.5L296.25 264.5M390.25 13.5L390.25 264.5M484.25 13.5L484.25 264.5"/>
+    <rect width="375" height="82" x="16" y="10" fill="#9ACF61" fill-rule="nonzero" opacity=".794"/>
+    <text fill="#FFF" font-family="Montserrat-Regular, Montserrat" font-size="40">
+      <tspan x="131" y="62">header</tspan>
+    </text>
+    <rect width="558" height="81" x="16" y="183" fill="#91B2F3" fill-rule="nonzero" opacity=".723"/>
+    <rect width="374" height="91" x="16" y="92" fill="#FF0063" fill-rule="nonzero" opacity=".5"/>
+    <text fill="#FFF" font-family="Montserrat-Regular, Montserrat" font-size="40">
+      <tspan x="145" y="152">main</tspan>
+    </text>
+    <text fill="#FFF" font-family="Montserrat-Regular, Montserrat" font-size="40">
+      <tspan x="249" y="242">footer</tspan>
+    </text>
+    <rect width="184" height="171" x="390" y="12" fill="#BD10E0" fill-opacity=".467" fill-rule="nonzero"/>
+    <text fill="#FFF" font-family="Montserrat-Regular, Montserrat" font-size="40">
+      <tspan x="410" y="124">sidebar</tspan>
+    </text>
+  </g>
+</svg>
