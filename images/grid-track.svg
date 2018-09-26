@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="338" height="148" viewBox="0 0 338 148">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="298" height="119" x="18" y="14" fill="#F7F7F7" fill-rule="nonzero"/>
+    <rect width="298" height="63" x="16" y="70" fill="pink" fill-rule="nonzero"/>
+    <path stroke="#9B9B9B" stroke-linecap="square" stroke-width="3" d="M80.5 14.5L80.5 131.5M167.25 15.5L167.25 132.5M246.25 15.5L246.25 132.5M19.5 71.5L313.5 71.5"/>
+  </g>
+</svg>

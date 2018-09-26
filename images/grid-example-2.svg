@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="724" height="312" viewBox="0 0 724 312">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="437" height="203" x="80" y="41" fill="#F7F7F7" fill-rule="nonzero"/>
+    <path stroke="#979797" stroke-linecap="square" stroke-width="3" d="M78.5 94.5L517.5 94.5M78.5 194.5L517.5 194.5"/>
+    <path stroke="#91B2F3" stroke-linecap="square" stroke-width="3" d="M162.5,45.5 L162.5,268.5"/>
+    <path stroke="#979797" stroke-linecap="square" stroke-width="3" d="M212.5,42.5 L212.5,238.5"/>
+    <path stroke="#91B2F3" stroke-linecap="square" stroke-width="3" d="M432.5,45.5 L432.5,267.5"/>
+    <rect width="437" height="200" x="79.5" y="42.5" stroke="#979797" stroke-width="3"/>
+    <text fill="pink" font-family="Montserrat-Regular, Montserrat" font-size="20">
+      <tspan x="92" y="37">40px</tspan>
+    </text>
+    <text fill="pink" font-family="Montserrat-Regular, Montserrat" font-size="20">
+      <tspan x="168" y="37">50px</tspan>
+    </text>
+    <text fill="pink" font-family="Montserrat-Regular, Montserrat" font-size="20">
+      <tspan x="298" y="37">auto</tspan>
+    </text>
+    <text fill="pink" font-family="Montserrat-Regular, Montserrat" font-size="20">
+      <tspan x="453" y="37">50px</tspan>
+    </text>
+    <text fill="pink" font-family="Montserrat-Regular, Montserrat" font-size="20">
+      <tspan x="32" y="72">25%</tspan>
+    </text>
+    <text fill="pink" font-family="Montserrat-Regular, Montserrat" font-size="20">
+      <tspan x="14" y="146">100px</tspan>
+    </text>
+    <text fill="pink" font-family="Montserrat-Regular, Montserrat" font-size="20">
+      <tspan x="26" y="223">auto</tspan>
+    </text>
+    <text fill="#4A4A4A" font-family="Montserrat-Regular, Montserrat" font-size="15">
+      <tspan x="526" y="49">[row-1-start]</tspan>
+    </text>
+    <text fill="#4A4A4A" font-family="Montserrat-Regular, Montserrat" font-size="15">
+      <tspan x="526" y="97">[row-1-end row-2-start]</tspan>
+    </text>
+    <text fill="#4A4A4A" font-family="Montserrat-Regular, Montserrat" font-size="15">
+      <tspan x="526" y="197">[row-2-end row-3-start]</tspan>
+    </text>
+    <text fill="#4A4A4A" font-family="Montserrat-Regular, Montserrat" font-size="15">
+      <tspan x="526" y="240">[row-3-end]</tspan>
+    </text>
+    <text fill="#4A4A4A" font-family="Montserrat-Regular, Montserrat" font-size="15">
+      <tspan x="43" y="262">[col-1-start]</tspan>
+    </text>
+    <text fill="#91B2F3" font-family="Montserrat-Regular, Montserrat" font-size="15">
+      <tspan x="85" y="292">[col-1-end col-2-start]</tspan>
+    </text>
+    <text fill="#4A4A4A" font-family="Montserrat-Regular, Montserrat" font-size="15">
+      <tspan x="198" y="260">[col-2-end col-3-start]</tspan>
+    </text>
+    <text fill="#91B2F3" font-family="Montserrat-Regular, Montserrat" font-size="15">
+      <tspan x="344" y="292">[col-3-end col-4-start]</tspan>
+    </text>
+    <text fill="#4A4A4A" font-family="Montserrat-Regular, Montserrat" font-size="15">
+      <tspan x="477" y="265">[col-4-end]</tspan>
+    </text>
+    <rect width="275" height="151" x="160" y="42" fill="pink" fill-rule="nonzero"/>
+  </g>
+</svg>
