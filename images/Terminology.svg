@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1234" height="470" viewBox="0 0 1234 470">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="1007" height="265" x="24" y="57" fill="#D8D8D8" fill-opacity=".27" fill-rule="nonzero"/>
+    <rect width="392" height="185" x="73" y="97" fill="#D8D8D8" fill-rule="nonzero"/>
+    <rect width="488" height="185" x="514" y="97" fill="#D8D8D8" fill-rule="nonzero"/>
+    <path fill="pink" fill-rule="nonzero" d="M491.208333,384 L503.208333,360 L479.208333,360 L491.208333,384 Z M489.208333,57.5 L489.208333,362 L489.208333,364 L493.208333,364 L493.208333,362 L493.208333,57.5 L493.208333,55.5 L489.208333,55.5 L489.208333,57.5 Z"/>
+    <path fill="pink" fill-rule="nonzero" d="M1069,189.5 L1045,177.5 L1045,201.5 L1069,189.5 Z M24.2013889,191.5 L1047,191.5 L1049,191.5 L1049,187.5 L1047,187.5 L24.2013889,187.5 L22.2013889,187.5 L22.2013889,191.5 L24.2013889,191.5 Z"/>
+    <text fill="#4A4A4A" font-family="Montserrat-Bold, Montserrat" font-size="24" font-weight="bold">
+      <tspan x="1046" y="80">cross start</tspan>
+    </text>
+    <text fill="#4A4A4A" font-family="Montserrat-ExtraLight, Montserrat" font-size="24" font-weight="300">
+      <tspan x="706" y="178">flex item</tspan>
+    </text>
+    <text fill="#4A4A4A" font-family="Montserrat-ExtraLight, Montserrat" font-size="24" font-weight="300">
+      <tspan x="218" y="178">flex item</tspan>
+    </text>
+    <text fill="#4A4A4A" font-family="Montserrat-ExtraLight, Montserrat" font-size="24" font-weight="300">
+      <tspan x="24" y="44">flex container</tspan>
+    </text>
+    <text fill="#4A4A4A" font-family="Montserrat-Bold, Montserrat" font-size="24" font-weight="bold">
+      <tspan x="24" y="361">main start</tspan>
+    </text>
+    <text fill="#4A4A4A" font-family="Montserrat-Bold, Montserrat" font-size="24" font-weight="bold">
+      <tspan x="912" y="373">main end</tspan>
+    </text>
+    <text fill="#4A4A4A" font-family="Montserrat-Bold, Montserrat" font-size="24" font-weight="bold">
+      <tspan x="1046" y="310">cross end</tspan>
+    </text>
+    <text fill="pink" font-family="Montserrat-Bold, Montserrat" font-size="24" font-weight="bold">
+      <tspan x="443" y="418">cross axis</tspan>
+    </text>
+    <text fill="pink" font-family="Montserrat-Bold, Montserrat" font-size="24" font-weight="bold">
+      <tspan x="1081" y="199">main axis</tspan>
+    </text>
+  </g>
+</svg>

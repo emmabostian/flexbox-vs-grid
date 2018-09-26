@@ -48,3 +48,36 @@ section {
     color: white;
     font-family: "Montserrat", sans-serif;
     font-size: 3em; }
+  .reveal .slides .title {
+    font-size: 3em;
+    color: #FFC0CB;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    border-bottom: 4px solid #FFC0CB;
+    padding-bottom: 10px;
+    font-family: "Montserrat", sans-serif; }
+  .reveal .slides .white-section {
+    background-color: white;
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; }
+  .reveal .slides .list {
+    font-size: 2em;
+    margin-left: 100px;
+    width: 80%;
+    text-align: left;
+    margin-bottom: 30px; }
+  .reveal .slides .list-item {
+    margin-bottom: 30px; }
+  .reveal .slides .subtitle {
+    font-size: 2.5em;
+    font-family: "Montserrat", sans-serif; }
+  .reveal .slides .description {
+    font-size: 1.5em;
+    margin-top: 20px; }
+  .reveal .slides .image {
+    margin-top: 50px; }
+  .reveal .slides .image-75 {
+    width: 75%; }
