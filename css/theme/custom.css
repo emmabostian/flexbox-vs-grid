@@ -79,6 +79,8 @@ section {
     margin-top: 20px;
     max-width: 40%;
     line-height: 1.5; }
+  .reveal .slides .horizontal {
+    flex-direction: row; }
   .reveal .slides .link {
     font-size: 6em;
     color: #4A4A4A;
@@ -91,6 +93,8 @@ section {
     width: 75%; }
   .reveal .slides .image-50 {
     width: 50%; }
+  .reveal .slides .image-40 {
+    width: 40%; }
   .reveal .slides .image-35 {
     width: 35%; }
   .reveal .slides .image-30 {
